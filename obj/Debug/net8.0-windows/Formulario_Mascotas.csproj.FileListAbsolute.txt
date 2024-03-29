@@ -1,0 +1,278 @@
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.exe
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.deps.json
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.runtimeconfig.json
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.pdb
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.csproj.AssemblyReference.cache
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.Form1.resources
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.csproj.GenerateResource.cache
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.AssemblyInfoInputs.cache
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.AssemblyInfo.cs
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.csproj.CoreCompileInputs.cache
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formular.7F5B0AA2.Up2Date
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.dll
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\refint\Formulario_Mascotas.dll
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.pdb
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.genruntimeconfig.cache
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\ref\Formulario_Mascotas.dll
+D:\Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.Properties.Resources.resources
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.exe
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.deps.json
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.runtimeconfig.json
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Formulario_Mascotas.pdb
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Humanizer.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.csproj.AssemblyReference.cache
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.Form1.resources
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.Properties.Resources.resources
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.csproj.GenerateResource.cache
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.AssemblyInfoInputs.cache
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.AssemblyInfo.cs
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.csproj.CoreCompileInputs.cache
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formular.7F5B0AA2.Up2Date
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\refint\Formulario_Mascotas.dll
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.pdb
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\Formulario_Mascotas.genruntimeconfig.cache
+D:\13. Formulario Mascotas\Formulario_Mascotas\obj\Debug\net8.0-windows\ref\Formulario_Mascotas.dll
